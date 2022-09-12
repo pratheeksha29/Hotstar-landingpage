@@ -1,4 +1,3 @@
 # hotstar
-Images-and videos
-Star to repo is appreciated.
-This repo only contain images and videos. 
+It is a clone of the Disney+ hotstar landing page clone using HTML,CSS and javascript
+https://pratheeksha29.github.io/Hotstar-landingpage/
